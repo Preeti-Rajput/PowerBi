@@ -1,6 +1,4 @@
 # PowerBi
-PowerBi Projects
-
 **E-commerce Dashboard**<br />
 •	Created Interactive Dashboard to track and analyze Online Sales Data<br />
 •	Used complex parameters to drill down in worksheet and customization using filters and Slicers<br />
